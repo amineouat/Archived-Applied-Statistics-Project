@@ -1,1 +1,1 @@
-# Stat-Project
+# Applied Statistics Project
